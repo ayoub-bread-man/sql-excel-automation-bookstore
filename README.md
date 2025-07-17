@@ -17,4 +17,4 @@ This script connects to a SQL database, runs key sales queries, exports the resu
 
 ##  Built With
 - Python (pandas, openpyxl, smtplib)
-- MySQL or SQLite (your choice)
+- MySQL  
