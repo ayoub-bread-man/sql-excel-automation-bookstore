@@ -2,6 +2,7 @@
 # Bookstore Monthly Report Generator :
 
 This script connects to a SQL database, runs key sales queries, exports the results to a formatted Excel file, logs the process, and emails the report automatically.
+just plug in your email and essntial stuff like file path etc and run main and it works like gold 
 
 # Features:
 - SQL queries for total sales, bestsellers, category breakdowns
